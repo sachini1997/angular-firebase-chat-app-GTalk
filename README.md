@@ -1,3 +1,4 @@
 # angular-firebase-chat-app-GTalk
-Made with angular8 and firebase...
+Made with angular8 and firebase
+For practicing
 ==================
